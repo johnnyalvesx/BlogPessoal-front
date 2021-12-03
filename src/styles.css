@@ -4,10 +4,14 @@ html {
     scroll-behavior: smooth;
 }
 
+body{
+    padding: 0 !important;
+}
+
 .fs-52 {
-    font-size: 52pt;
+    font-size: 50pt;
 }
 
 .fs-18 {
-    font-size: 18pt;
+    font-size: 16pt;
 }
